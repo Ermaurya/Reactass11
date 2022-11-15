@@ -4,7 +4,7 @@ import Contact from './components/Contact';
 import Service from './components/Service';
 import {useState} from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import {ContextApi} from './Context';
+import {ContextApi} from './ContextApi';
 import { Careers } from './components/Careers';
 
 function App() {

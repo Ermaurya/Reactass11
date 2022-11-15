@@ -1,5 +1,5 @@
 import React,{useContext} from 'react';
-import {ContextApi} from '../Context';
+import {ContextApi} from '../ContextApi';
 import {Link} from 'react-router-dom';
 
 const Navbar = () => {
